@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>D:\Tencent\QQdata\847196428\FileRecv\3.0整理图包\最新章节相关图\S3BH_1 #1361%28CUnet%29%28noise_scale%29%28Level3%29%28x10.000000%29.jpg</Source>
+    <SmallTileSource>D:\Tencent\QQdata\847196428\FileRecv\3.0整理图包\最新章节相关图\S3BH_1 #1361%28CUnet%29%28noise_scale%29%28Level3%29%28x10.000000%29.jpg</SmallTileSource>
+    <MediumTileSource>D:\Tencent\QQdata\847196428\FileRecv\3.0整理图包\最新章节相关图\S3BH_1 #1361%28CUnet%29%28noise_scale%29%28Level3%29%28x10.000000%29.jpg</MediumTileSource>
+    <WideTileSource>D:\Tencent\QQdata\847196428\FileRecv\3.0整理图包\最新章节相关图\S3BH_1 #1361%28CUnet%29%28noise_scale%29%28Level3%29%28x10.000000%29.jpg</WideTileSource>
+    <LargeTileSource>D:\Tencent\QQdata\847196428\FileRecv\3.0整理图包\最新章节相关图\S3BH_1 #1361%28CUnet%29%28noise_scale%29%28Level3%29%28x10.000000%29.jpg</LargeTileSource>
+    <AppIconSource>D:\Tencent\QQdata\847196428\FileRecv\3.0整理图包\最新章节相关图\S3BH_1 #1361%28CUnet%29%28noise_scale%29%28Level3%29%28x10.000000%29.jpg</AppIconSource>
+    <SplashScreenSource>D:\Tencent\QQdata\847196428\FileRecv\3.0整理图包\最新章节相关图\S3BH_1 #1361%28CUnet%29%28noise_scale%29%28Level3%29%28x10.000000%29.jpg</SplashScreenSource>
+    <PackageLogoSource>D:\Tencent\QQdata\847196428\FileRecv\3.0整理图包\最新章节相关图\S3BH_1 #1361%28CUnet%29%28noise_scale%29%28Level3%29%28x10.000000%29.jpg</PackageLogoSource>
+    <BadgeLogoSource>C:\Users\hsskf\Desktop\图\teriri.png</BadgeLogoSource>
+  </PropertyGroup>
+</Project>
